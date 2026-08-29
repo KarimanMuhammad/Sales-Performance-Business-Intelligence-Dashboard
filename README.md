@@ -3,31 +3,21 @@
 
 ## 📌 Project Overview
 
-This project analyzes sales performance using Power BI to provide a clear view of revenue, profit, cost, quantity, profitability, and geographical performance.
+This project analyzes sales performance using **Power BI** to provide a clear view of revenue, profit, cost, quantity, profitability, and geographical performance.
 
-The dashboard helps identify key sales trends, top-performing locations, package distribution, and overall business performance through interactive visualizations and filters.
-
----
-
-## 🎯 Key Metrics
-
-- Total Revenue: **$19.88M**
-- Total Profit: **$9.92M**
-- Total Cost: **$9.96M**
-- Total Quantity: **1.03M**
-- Profitability: **49.92%**
+The dashboard transforms sales data into interactive insights to help understand business performance, sales trends, and customer target achievement.
 
 ---
 
 ## 📊 Dashboard Preview
 
-### Main Dashboard
+### Sales Performance Overview
 
-![Sales Performance Dashboard](PowerBI_Project/Sales_Performance.png)
+![Sales Performance Dashboard](Sales_Performance.png)
 
-### Dashboard with Filters
+### Interactive Filters
 
-![Sales Performance Dashboard Filters](PowerBI_Project/Sales_Performance_2.png)
+![Sales Performance Dashboard Filters](Sales_Performance_2.png)
 
 ---
 
@@ -35,38 +25,40 @@ The dashboard helps identify key sales trends, top-performing locations, package
 
 The dashboard provides insights into:
 
-- Revenue and profit performance
-- Revenue distribution by state and city
+- Revenue, profit, cost, and profitability
 - Monthly revenue and profit trends
+- Sales performance by state and city
 - Quantity distribution by package type
 - Chiller vs. dry product distribution
 - Customer target progress
-- Profit and revenue comparison across cities and states
+- Geographic sales performance
 
 ---
 
-## 🛠 Tools Used
+## 🛠 Tools & Skills
 
 - Power BI
 - Power Query
 - DAX
-- Data Cleaning
+- Data Cleaning & Transformation
 - Data Modeling
 - Data Visualization
+- Business Intelligence
 
 ---
 
-## 📁 Repository Structure
+## 📁 Project Files
 
-```text
-Sales-Performance-Dashboard/
-│
-├── README.md
-│
-├── Raw_Data/
-│   └── Sales_Dataset.xlsx
-│
-└── PowerBI_Project/
-    ├── Sales_Performance.pbix
-    ├── Sales_Performance.png
-    └── Sales_Performance_2.png
+| File | Description |
+|------|-------------|
+| `Sales_Performance.pbix` | Power BI dashboard and data model |
+| `Sales_Dataset.xlsx` | Original sales dataset |
+| `Sales_Performance.png` | Main dashboard screenshot |
+| `Sales_Performance_2.png` | Dashboard with interactive filters |
+
+---
+
+## 👩‍💻 Author
+
+**Kariman Muhammad Ahmad**  
+Data Analyst
