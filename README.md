@@ -13,12 +13,11 @@ The dashboard transforms sales data into interactive insights to help understand
 
 ### Sales Performance Overview
 
-![Sales Performance Dashboard](Sales_Performance.png)
+![Sales Performance Dashboard](Sales%20Performance.png)
 
 ### Interactive Filters
 
-![Sales Performance Dashboard Filters](Sales_Performance_2.png)
-
+![Sales Performance Dashboard Filters](Sales%20Performance%202.png)
 ---
 
 ## 🔎 Analysis Highlights
